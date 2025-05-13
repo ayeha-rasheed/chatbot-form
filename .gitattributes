@@ -1,29 +1,2 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Chatbot UI</title>
-</head>
-<body>
-    <center>
-    <h1>Chatbot UI</h1>
-    <div>
-        <div class="span">
-        <span>Your Message:</span>
-        
-    </div>
-        <form>
-            <textarea name="Type your message here"
-             id="Type your message here"
-             name="Type your message here"
-             class="Type your message here"
-             placeholder="Type your message here"
-             ></textarea><br><br>
-            <button>submit</button>
-        </form>
-    </center>
-</body>
-</html>
